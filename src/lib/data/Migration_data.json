@@ -1,0 +1,4272 @@
+[
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2022,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2021,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2020,
+  "Inbound": 0.61,
+  "Outbound": 0.39
+ },
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2019,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2018,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2017,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2016,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2015,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2014,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "ALABAMA",
+  "Year": 2013,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2022,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2021,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2020,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2019,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2018,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2017,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2016,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2015,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2014,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "COLORADO",
+  "Year": 2013,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2022,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2021,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2020,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2019,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2018,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2017,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2016,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2015,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2014,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "HAWAII",
+  "Year": 2013,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2022,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2021,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2020,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2019,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2018,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2017,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2016,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2015,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2014,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "ALASKA",
+  "Year": 2013,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2022,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2021,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2020,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2019,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2018,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2017,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2016,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2015,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2014,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "CONNECTICUT",
+  "Year": 2013,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2022,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2021,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2020,
+  "Inbound": 0.66,
+  "Outbound": 0.34
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2019,
+  "Inbound": 0.62,
+  "Outbound": 0.38
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2018,
+  "Inbound": 0.66,
+  "Outbound": 0.34
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2017,
+  "Inbound": 0.65,
+  "Outbound": 0.35
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2016,
+  "Inbound": 0.63,
+  "Outbound": 0.37
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2015,
+  "Inbound": 0.63,
+  "Outbound": 0.37
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2014,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "IDAHO",
+  "Year": 2013,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2022,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2021,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2020,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2019,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2018,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2017,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2016,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2015,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2014,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "ARIZONA",
+  "Year": 2013,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2022,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2021,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2020,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2019,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2018,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2017,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2016,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2015,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2014,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "DELAWARE",
+  "Year": 2013,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2022,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2021,
+  "Inbound": 0.37,
+  "Outbound": 0.63
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2020,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2019,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2018,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2017,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2016,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2015,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2014,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "ILLINOIS",
+  "Year": 2013,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2022,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2021,
+  "Inbound": 0.62,
+  "Outbound": 0.38
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2020,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2019,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2018,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2017,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2016,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2015,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2014,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "ARKANSAS",
+  "Year": 2013,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2022,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2021,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2020,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2019,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2018,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2017,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2016,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2015,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2014,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "FLORIDA",
+  "Year": 2013,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2022,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2021,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2020,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2019,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2018,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2017,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2016,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2015,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2014,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "INDIANA",
+  "Year": 2013,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2022,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2021,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2020,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2019,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2018,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2017,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2016,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2015,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2014,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "CALIFORNIA",
+  "Year": 2013,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2022,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2021,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2020,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2019,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2018,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2017,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2016,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2015,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2014,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "GEORGIA",
+  "Year": 2013,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2022,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2021,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2020,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2019,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2018,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2017,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2016,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2015,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2014,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "IOWA",
+  "Year": 2013,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2022,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2021,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2020,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2019,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2018,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2017,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2016,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2015,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2014,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "KANSAS",
+  "Year": 2013,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2022,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2021,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2020,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2019,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2018,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2017,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2016,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2015,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2014,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "MASSACHUSETTS",
+  "Year": 2013,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2022,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2021,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2020,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2019,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2018,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2017,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2016,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2015,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2014,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "MONTANA",
+  "Year": 2013,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2022,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2021,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2020,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2019,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2018,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2017,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2016,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2015,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2014,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "KENTUCKY",
+  "Year": 2013,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2022,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2021,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2020,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2019,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2018,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2017,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2016,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2015,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2014,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "MICHIGAN",
+  "Year": 2013,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2022,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2021,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2020,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2019,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2018,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2017,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2016,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2015,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2014,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "NEBRASKA",
+  "Year": 2013,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2022,
+  "Inbound": 0.35,
+  "Outbound": 0.65
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2021,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2020,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2019,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2018,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2017,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2016,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2015,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2014,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "LOUISIANA",
+  "Year": 2013,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2022,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2021,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2020,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2019,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2018,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2017,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2016,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2015,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2014,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "MINNESOTA",
+  "Year": 2013,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2022,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2021,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2020,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2019,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2018,
+  "Inbound": 0.68,
+  "Outbound": 0.32
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2017,
+  "Inbound": 0.62,
+  "Outbound": 0.38
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2016,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2015,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2014,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "NEVADA",
+  "Year": 2013,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2022,
+  "Inbound": 0.63,
+  "Outbound": 0.37
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2021,
+  "Inbound": 0.64,
+  "Outbound": 0.36
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2020,
+  "Inbound": 0.62,
+  "Outbound": 0.38
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2019,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2018,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2017,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2016,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2015,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2014,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "MAINE",
+  "Year": 2013,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2022,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2021,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2020,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2019,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2018,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2017,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2016,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2015,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2014,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "MISSISSIPPI",
+  "Year": 2013,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2022,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2021,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2020,
+  "Inbound": 0.61,
+  "Outbound": 0.39
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2019,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2018,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2017,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2016,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2015,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2014,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "NEW HAMPSHIRE",
+  "Year": 2013,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2022,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2021,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2020,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2019,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2018,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2017,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2016,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2015,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2014,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "MARYLAND",
+  "Year": 2013,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2022,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2021,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2020,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2019,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2018,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2017,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2016,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2015,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2014,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "MISSOURI",
+  "Year": 2013,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2022,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2021,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2020,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2019,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2018,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2017,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2016,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2015,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2014,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "NEW JERSEY",
+  "Year": 2013,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2022,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2021,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2020,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2019,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2018,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2017,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2016,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2015,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2014,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "NEW MEXICO",
+  "Year": 2013,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2022,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2021,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2020,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2019,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2018,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2017,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2016,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2015,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2014,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "OKLAHOMA",
+  "Year": 2013,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2022,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2021,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2020,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2019,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2018,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2017,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2016,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2015,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2014,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH DAKOTA",
+  "Year": 2013,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2022,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2021,
+  "Inbound": 0.37,
+  "Outbound": 0.63
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2020,
+  "Inbound": 0.34,
+  "Outbound": 0.66
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2019,
+  "Inbound": 0.37,
+  "Outbound": 0.63
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2018,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2017,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2016,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2015,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2014,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "United States",
+  "State": "NEW YORK",
+  "Year": 2013,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2022,
+  "Inbound": 0.64,
+  "Outbound": 0.36
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2021,
+  "Inbound": 0.63,
+  "Outbound": 0.37
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2020,
+  "Inbound": 0.65,
+  "Outbound": 0.35
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2019,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2018,
+  "Inbound": 0.63,
+  "Outbound": 0.37
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2017,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2016,
+  "Inbound": 0.61,
+  "Outbound": 0.39
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2015,
+  "Inbound": 0.61,
+  "Outbound": 0.39
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2014,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH CAROLINA",
+  "Year": 2013,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2022,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2021,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2020,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2019,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2018,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2017,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2016,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2015,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2014,
+  "Inbound": 0.64,
+  "Outbound": 0.36
+ },
+ {
+  "Country": "United States",
+  "State": "NORTH DAKOTA",
+  "Year": 2013,
+  "Inbound": 0.67,
+  "Outbound": 0.33
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2022,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2021,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2020,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2019,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2018,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2017,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2016,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2015,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2014,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "OHIO",
+  "Year": 2013,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2022,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2021,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2020,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2019,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2018,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2017,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2016,
+  "Inbound": 0.62,
+  "Outbound": 0.38
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2015,
+  "Inbound": 0.64,
+  "Outbound": 0.36
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2014,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "OREGON",
+  "Year": 2013,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2022,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2021,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2020,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2019,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2018,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2017,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2016,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2015,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2014,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "PENNSYLVANIA",
+  "Year": 2013,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2022,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2021,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2020,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2019,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2018,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2017,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2016,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2015,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2014,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "RHODE ISLAND",
+  "Year": 2013,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2022,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2021,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2020,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2019,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2018,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2017,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2016,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2015,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2014,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "SOUTH CAROLINA",
+  "Year": 2013,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2022,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2021,
+  "Inbound": 0.61,
+  "Outbound": 0.39
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2020,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2019,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2018,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2017,
+  "Inbound": 0.61,
+  "Outbound": 0.39
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2016,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2015,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2014,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "TENNESSEE",
+  "Year": 2013,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2022,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2021,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2020,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2019,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2018,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2017,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2016,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2015,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2014,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "TEXAS",
+  "Year": 2013,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2022,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2021,
+  "Inbound": 0.61,
+  "Outbound": 0.39
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2020,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2019,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2018,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2017,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2016,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2015,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2014,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "UTAH",
+  "Year": 2013,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2022,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2021,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2020,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2019,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2018,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2017,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2016,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2015,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2014,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "VERMONT",
+  "Year": 2013,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2022,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2021,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2020,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2019,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2018,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2017,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2016,
+  "Inbound": 0.52,
+  "Outbound": 0.48
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2015,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2014,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "United States",
+  "State": "VIRGINIA",
+  "Year": 2013,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2022,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2021,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2020,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2019,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2018,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2017,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2016,
+  "Inbound": 0.37,
+  "Outbound": 0.63
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2015,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2014,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "WYOMING",
+  "Year": 2013,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2022,
+  "Inbound": 0.48,
+  "Outbound": 0.52
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2021,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2020,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2019,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2018,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2017,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2016,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2015,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2014,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "United States",
+  "State": "WISCONSIN",
+  "Year": 2013,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2022,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2021,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2020,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2019,
+  "Inbound": 0.37,
+  "Outbound": 0.63
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2018,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2017,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2016,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2015,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2014,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "United States",
+  "State": "WEST VIRGINIA",
+  "Year": 2013,
+  "Inbound": 0.47,
+  "Outbound": 0.53
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2022,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2021,
+  "Inbound": 0.61,
+  "Outbound": 0.39
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2020,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2019,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2018,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2017,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2016,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2015,
+  "Inbound": 0.54,
+  "Outbound": 0.46
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2014,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON, D.C.",
+  "Year": 2013,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2022,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2021,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2020,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2019,
+  "Inbound": 0.6,
+  "Outbound": 0.4
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2018,
+  "Inbound": 0.57,
+  "Outbound": 0.43
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2017,
+  "Inbound": 0.63,
+  "Outbound": 0.37
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2016,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2015,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2014,
+  "Inbound": 0.55,
+  "Outbound": 0.45
+ },
+ {
+  "Country": "United States",
+  "State": "WASHINGTON",
+  "Year": 2013,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2022,
+  "Inbound": 0.62,
+  "Outbound": 0.38
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2021,
+  "Inbound": 0.34,
+  "Outbound": 0.66
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2020,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2019,
+  "Inbound": 0.34,
+  "Outbound": 0.66
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2018,
+  "Inbound": 0.35,
+  "Outbound": 0.65
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2017,
+  "Inbound": 0.36,
+  "Outbound": 0.64
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2016,
+  "Inbound": 0.31,
+  "Outbound": 0.69
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2015,
+  "Inbound": 0.35,
+  "Outbound": 0.65
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2014,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "Canada",
+  "State": "Alberta",
+  "Year": 2013,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2022,
+  "Inbound": 0.59,
+  "Outbound": 0.41
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2021,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2020,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2019,
+  "Inbound": 0.56,
+  "Outbound": 0.44
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2018,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2017,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2016,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2015,
+  "Inbound": 0.46,
+  "Outbound": 0.54
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2014,
+  "Inbound": 0.34,
+  "Outbound": 0.66
+ },
+ {
+  "Country": "Canada",
+  "State": "NOVA SCOTIA",
+  "Year": 2013,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2022,
+  "Inbound": 0.49,
+  "Outbound": 0.51
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2021,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2020,
+  "Inbound": 0.51,
+  "Outbound": 0.49
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2019,
+  "Inbound": 0.41,
+  "Outbound": 0.59
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2018,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2017,
+  "Inbound": 0.35,
+  "Outbound": 0.65
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2016,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2015,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2014,
+  "Inbound": 0.36,
+  "Outbound": 0.64
+ },
+ {
+  "Country": "Canada",
+  "State": "BRITISH COLUMBIA",
+  "Year": 2013,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2022,
+  "Inbound": 0.37,
+  "Outbound": 0.63
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2021,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2020,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2019,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2018,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2017,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2016,
+  "Inbound": 0.35,
+  "Outbound": 0.65
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2015,
+  "Inbound": 0.31,
+  "Outbound": 0.69
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2014,
+  "Inbound": 0.33,
+  "Outbound": 0.67
+ },
+ {
+  "Country": "Canada",
+  "State": "ONTARIO",
+  "Year": 2013,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2022,
+  "Inbound": 0.35,
+  "Outbound": 0.65
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2021,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2020,
+  "Inbound": 0.36,
+  "Outbound": 0.64
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2019,
+  "Inbound": 0.35,
+  "Outbound": 0.65
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2018,
+  "Inbound": 0.24,
+  "Outbound": 0.76
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2017,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2016,
+  "Inbound": 0.29,
+  "Outbound": 0.71
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2015,
+  "Inbound": 0.21,
+  "Outbound": 0.79
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2014,
+  "Inbound": 0.27,
+  "Outbound": 0.73
+ },
+ {
+  "Country": "Canada",
+  "State": "MANITOBA",
+  "Year": 2013,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2022,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2021,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2020,
+  "Inbound": 0.53,
+  "Outbound": 0.47
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2019,
+  "Inbound": 0.43,
+  "Outbound": 0.57
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2018,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2017,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2016,
+  "Inbound": 0.32,
+  "Outbound": 0.68
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2015,
+  "Inbound": 0.26,
+  "Outbound": 0.74
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2014,
+  "Inbound": 0.31,
+  "Outbound": 0.69
+ },
+ {
+  "Country": "Canada",
+  "State": "QUEBEC",
+  "Year": 2013,
+  "Inbound": 0.39,
+  "Outbound": 0.61
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2022,
+  "Inbound": 0.74,
+  "Outbound": 0.26
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2021,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2020,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2019,
+  "Inbound": 0.27,
+  "Outbound": 0.73
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2018,
+  "Inbound": 0.33,
+  "Outbound": 0.67
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2017,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2016,
+  "Inbound": 0.4,
+  "Outbound": 0.6
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2015,
+  "Inbound": 0.38,
+  "Outbound": 0.62
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2014,
+  "Inbound": 0.36,
+  "Outbound": 0.64
+ },
+ {
+  "Country": "Canada",
+  "State": "NEW BRUNSWICK",
+  "Year": 2013,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2022,
+  "Inbound": 0.45,
+  "Outbound": 0.55
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2021,
+  "Inbound": 0.42,
+  "Outbound": 0.58
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2020,
+  "Inbound": 0.08,
+  "Outbound": 0.92
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2019,
+  "Inbound": 0.24,
+  "Outbound": 0.76
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2018,
+  "Inbound": 0.31,
+  "Outbound": 0.69
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2017,
+  "Inbound": 0.3,
+  "Outbound": 0.7
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2016,
+  "Inbound": 0.29,
+  "Outbound": 0.71
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2015,
+  "Inbound": 0.23,
+  "Outbound": 0.78
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2014,
+  "Inbound": 0.27,
+  "Outbound": 0.73
+ },
+ {
+  "Country": "Canada",
+  "State": "SASKATCHEWAN",
+  "Year": 2013,
+  "Inbound": 0.33,
+  "Outbound": 0.67
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2022,
+  "Inbound": 0.64,
+  "Outbound": 0.36
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2021,
+  "Inbound": 0.67,
+  "Outbound": 0.33
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2020,
+  "Inbound": 0.5,
+  "Outbound": 0.5
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2019,
+  "Inbound": 0.24,
+  "Outbound": 0.76
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2018,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2017,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2016,
+  "Inbound": 0.62,
+  "Outbound": 0.38
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2015,
+  "Inbound": 0.44,
+  "Outbound": 0.56
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2014,
+  "Inbound": 0.13,
+  "Outbound": 0.88
+ },
+ {
+  "Country": "Canada",
+  "State": "NEWFOUNDLAND & LABRADOR",
+  "Year": 2013,
+  "Inbound": 0.75,
+  "Outbound": 0.25
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2022,
+  "Inbound": 0.58,
+  "Outbound": 0.42
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2021,
+  "Inbound": 0.63,
+  "Outbound": 0.37
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2020,
+  "Inbound": 0,
+  "Outbound": 0
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2019,
+  "Inbound": 0,
+  "Outbound": 0
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2018,
+  "Inbound": 0,
+  "Outbound": 0
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2017,
+  "Inbound": 0,
+  "Outbound": 0
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2016,
+  "Inbound": 0,
+  "Outbound": 0
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2015,
+  "Inbound": 0,
+  "Outbound": 0
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2014,
+  "Inbound": 0,
+  "Outbound": 1
+ },
+ {
+  "Country": "Canada",
+  "State": "YUKON",
+  "Year": 2013,
+  "Inbound": 0,
+  "Outbound": 0
+ }
+]
